@@ -1,0 +1,71 @@
+date,incident_type,severity,location,resolved
+2026-08-01,Vehicle Issue,High,Labs,0
+2026-08-01,Other,Medium,Block B,1
+2026-08-02,Slip/Fall,High,Hostels,1
+2026-08-02,Other,High,Labs,1
+2026-08-04,Unauthorized Entry,Low,Library,0
+2026-08-04,Unauthorized Entry,Low,Hostels,1
+2026-08-05,Unauthorized Entry,Medium,Labs,1
+2026-08-06,Other,High,Hostels,0
+2026-08-07,Unauthorized Entry,High,Block A,1
+2026-08-07,Electrical Hazard,High,Hostels,1
+2026-08-09,Other,Medium,Library,1
+2026-08-10,Vehicle Issue,High,Hostels,1
+2026-08-10,Unauthorized Entry,Medium,Library,1
+2026-08-12,Vehicle Issue,High,Block A,1
+2026-08-13,Electrical Hazard,Medium,Library,1
+2026-08-14,Slip/Fall,High,Labs,1
+2026-08-15,Vehicle Issue,Low,Block B,0
+2026-08-16,Slip/Fall,Medium,Hostels,1
+2026-08-17,Electrical Hazard,Low,Block A,1
+2026-08-17,Other,High,Block B,1
+2026-08-19,Other,Low,Block A,0
+2026-08-19,Other,Low,Labs,1
+2026-08-22,Vehicle Issue,High,Hostels,0
+2026-08-23,Unauthorized Entry,Low,Library,1
+2026-08-23,Electrical Hazard,High,Hostels,1
+2026-08-24,Unauthorized Entry,Medium,Block B,1
+2026-08-24,Slip/Fall,Low,Labs,1
+2026-08-25,Slip/Fall,Low,Hostels,1
+2026-08-25,Slip/Fall,Medium,Hostels,1
+2026-08-26,Vehicle Issue,Low,Main Gate,1
+2026-08-26,Other,High,Main Gate,1
+2026-08-27,Electrical Hazard,High,Library,1
+2026-08-29,Electrical Hazard,Medium,Block A,0
+2026-08-29,Vehicle Issue,Low,Labs,1
+2026-08-30,Vehicle Issue,High,Block A,0
+2026-08-30,Vehicle Issue,Medium,Library,1
+2026-09-01,Electrical Hazard,Medium,Library,1
+2026-09-01,Slip/Fall,Medium,Labs,0
+2026-09-04,Vehicle Issue,Low,Main Gate,1
+2026-09-05,Unauthorized Entry,Medium,Block B,1
+2026-09-06,Other,High,Library,0
+2026-09-07,Vehicle Issue,High,Block A,0
+2026-09-08,Slip/Fall,Medium,Block B,1
+2026-09-08,Electrical Hazard,High,Library,1
+2026-09-09,Slip/Fall,High,Block B,1
+2026-09-09,Other,Low,Block A,1
+2026-09-10,Unauthorized Entry,Medium,Labs,1
+2026-09-11,Other,Medium,Library,1
+2026-09-13,Other,Low,Library,1
+2026-09-13,Other,High,Block B,0
+2026-09-14,Slip/Fall,Low,Library,1
+2026-09-14,Other,High,Block A,1
+2026-09-15,Other,Medium,Main Gate,1
+2026-09-16,Other,Medium,Main Gate,1
+2026-09-16,Slip/Fall,Medium,Block A,1
+2026-09-17,Other,Low,Library,1
+2026-09-18,Vehicle Issue,High,Main Gate,1
+2026-09-18,Vehicle Issue,Low,Labs,1
+2026-09-19,Slip/Fall,Low,Hostels,1
+2026-09-19,Slip/Fall,High,Main Gate,0
+2026-09-20,Slip/Fall,Medium,Hostels,1
+2026-09-22,Electrical Hazard,Medium,Hostels,1
+2026-09-22,Electrical Hazard,Medium,Main Gate,1
+2026-09-23,Vehicle Issue,Low,Block A,1
+2026-09-23,Other,Low,Labs,1
+2026-09-26,Electrical Hazard,High,Labs,1
+2026-09-27,Electrical Hazard,Low,Block A,1
+2026-09-27,Vehicle Issue,Low,Block B,1
+2026-09-28,Slip/Fall,Low,Labs,1
+2026-09-28,Other,Low,Block A,1

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="170" viewBox="0 0 170 170">
+<defs>
+  <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+    <stop offset="0" stop-color="#0b3971"/><stop offset="1" stop-color="#1677c8"/>
+  </linearGradient>
+</defs>
+<circle cx="85" cy="85" r="78" fill="#fff" stroke="#0b3971" stroke-width="5"/>
+<circle cx="85" cy="85" r="64" fill="none" stroke="#b89a2e" stroke-width="3"/>
+<path d="M45 96 L85 43 L125 96 L118 96 L118 115 L52 115 L52 96 Z" fill="url(#g)"/>
+<path d="M65 93 L85 67 L105 93 Z" fill="#fff"/>
+<path d="M78 96 H92 V113 H78 Z" fill="#fff"/>
+<text x="85" y="30" text-anchor="middle" font-family="Arial" font-weight="700" font-size="10" fill="#0b3971">KITSW</text>
+<text x="85" y="132" text-anchor="middle" font-family="Arial" font-weight="700" font-size="10" fill="#0b3971">WARANGAL</text>
+<text x="85" y="146" text-anchor="middle" font-family="Arial" font-size="8" fill="#8b6e20">ESTD. 1980</text>
+</svg>

@@ -1,0 +1,22 @@
+date,event_name,expected_crowd,actual_crowd,event_type
+2026-08-20,Seminar,1407,2038,Sports
+2026-08-23,Cultural Event,606,648,Sports
+2026-08-27,Seminar,1080,1941,Cultural
+2026-08-17,Cultural Event,1588,2037,Cultural
+2026-08-26,Tech Fest,1480,1928,Cultural
+2026-08-24,Sports Meet,825,2122,Academic
+2026-08-21,Tech Fest,581,1948,Academic
+2026-09-02,Workshop,2478,425,Sports
+2026-09-11,Seminar,1550,680,Cultural
+2026-09-08,Cultural Event,410,1358,Sports
+2026-09-09,Sports Meet,624,2547,Sports
+2026-09-09,Workshop,2175,1098,Academic
+2026-09-17,Seminar,1705,650,Cultural
+2026-09-27,Workshop,1957,2477,Sports
+2026-10-01,Seminar,307,1275,Academic
+2026-09-20,Sports Meet,1465,1571,Cultural
+2026-09-18,Workshop,786,2499,Sports
+2026-10-03,Tech Fest,781,305,Academic
+2026-10-10,Workshop,1740,1899,Cultural
+2026-10-07,Workshop,1715,1456,Sports
+2026-10-10,Seminar,547,395,Academic

@@ -1,0 +1,14 @@
+problem_area,department,authority,contact
+Campus Crowd,Security & Student Affairs,Campus Security Officer,security@kitsw.ac.in
+Classroom Utilization,Academic Section,Academic Coordinator,academics@kitsw.ac.in
+Canteen Demand,Hostel & Canteen Administration,Canteen Manager,canteen@kitsw.ac.in
+Parking Demand,Transport & Security,Transport Officer,transport@kitsw.ac.in
+Electricity Forecasting,Electrical Maintenance,Electrical Engineer,electrical@kitsw.ac.in
+Water Leakage,Civil & Water Maintenance,Maintenance Engineer,maintenance@kitsw.ac.in
+Event Crowd,Student Affairs,Events Coordinator,events@kitsw.ac.in
+Library Occupancy,Central Library,Chief Librarian,library@kitsw.ac.in
+Transport Demand,Transport Section,Transport Officer,transport@kitsw.ac.in
+Campus Safety,Campus Security,Chief Security Officer,security@kitsw.ac.in
+Waste Prediction,Estate & Sanitation,Sanitation Supervisor,sanitation@kitsw.ac.in
+Facility Recommendation,Estate & Facilities,Facilities Manager,facilities@kitsw.ac.in
+Complaint Intelligence,Grievance Cell,Grievance Officer,grievance@kitsw.ac.in

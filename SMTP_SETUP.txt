@@ -1,0 +1,33 @@
+KITSW AI CARE - EMAIL NOTIFICATION SETUP
+========================================
+
+The application is configured to read SMTP settings from a local .env file.
+The complaint notification workflow works in-app even before SMTP credentials are supplied.
+
+1. Copy .env.example to .env
+
+2. For Gmail, edit .env:
+
+KITSW_SMTP_HOST=smtp.gmail.com
+KITSW_SMTP_PORT=587
+KITSW_SMTP_USER=YOUR_GMAIL_ADDRESS
+KITSW_SMTP_PASSWORD=YOUR_GOOGLE_APP_PASSWORD
+KITSW_FROM_EMAIL=YOUR_GMAIL_ADDRESS
+
+Use a Google App Password, NOT your normal Gmail password.
+
+3. Start the app:
+
+python -m streamlit run app.py
+
+4. Submit a complaint or change a complaint status.
+
+The application will:
+- save the complaint/status first;
+- create the in-app notification;
+- attempt the real email through SMTP;
+- record the delivery result in data/email_notifications.csv.
+
+Security:
+- Do not commit .env to GitHub.
+- Do not share your App Password.

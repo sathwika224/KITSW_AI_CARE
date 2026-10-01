@@ -1,0 +1,3 @@
+timestamp,complaint_id,recipient,event,subject,delivery_status,details
+2026-10-01 16:36:42,KAC-20261001-8B426B,sathwikamadipeddi24@gmail.com,Complaint Registered - User,KITSW AI CARE | KAC-20261001-8B426B | Assigned,IN_APP,In-app notification recorded. Email delivery is ready after SMTP credentials are added to .env.
+2026-10-01 16:36:42,KAC-20261001-8B426B,security@kitsw.ac.in,Complaint Registered - Admin,KITSW AI CARE | KAC-20261001-8B426B | Assigned,IN_APP,In-app notification recorded. Email delivery is ready after SMTP credentials are added to .env.
